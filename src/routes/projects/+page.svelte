@@ -13,7 +13,7 @@
   {
     text-align: center;
     margin: 0 auto;
-    padding: 25px;
+    padding: 50px;
     max-width: 1250px;
   }
   </style>
