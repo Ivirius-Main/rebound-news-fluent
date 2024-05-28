@@ -11,28 +11,34 @@
 	import Home from "@fluentui/svg-icons/icons/home_24_regular.svg?raw";
 	import News from "@fluentui/svg-icons/icons/news_24_regular.svg?raw";
 	import History from "@fluentui/svg-icons/icons/history_24_regular.svg?raw";
-	// import PaintBrush from "@fluentui/svg-icons/icons/paint_brush_24_regular.svg?raw";
+	import PaintBrush from "@fluentui/svg-icons/icons/paint_brush_24_regular.svg?raw";
+	import AppGeneric from "@fluentui/svg-icons/icons/app_generic_24_regular.svg?raw";
 
 	const navbarItems: NavbarItem[] = [
-		{
-			name: "Home",
-			path: "/",
-			icon: Home
-		},
-		{
-			name: "Blog",
-			path: "/blog",
-			icon: News
-		}
+	{
+	name: "Home",
+	path: "/",
+	icon: Home
+	},
+	{
+	name: "News",
+	path: "/blog",
+	icon: News
+	},
+	{
+	name: "Projects",
+	path: "/projects",
+	icon: AppGeneric
+	},
 	];
 
 	const navbarButtons = [
-		{
-			icon: History,
-			href: "https://errortek.vercel.app",
-			label: "Visit my main website!",
-			isExternal: false
-		}
+	{
+	icon: History,
+	href: "https://errortek.vercel.app",
+	label: "Visit my main website!",
+	isExternal: false
+	}
 	];
 </script>
 
