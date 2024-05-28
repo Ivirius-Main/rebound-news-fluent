@@ -13,7 +13,7 @@
     export const widgetsSuffix = $page.url.searchParams.has('widgets') ? "_blank": null;
 </script>
 
-<Metadata title="Rebound News-  Blog" />
+<Metadata title="Rebound News - Blog" />
 
 <svelte:window
 	on:scroll={() =>
