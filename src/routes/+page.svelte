@@ -55,7 +55,7 @@
 	</div>
 	<div id="hero-section">
 		<img
-			draggable={"false"
+			draggable={false}
 			class="hero-image"
 			src="https://avatars.githubusercontent.com/IviriusMain"
 			alt="Ivirius' profile"
