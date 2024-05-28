@@ -5,12 +5,12 @@
 	let { github, youtube } = links;
 </script>
 <section class="centered-section">
-    <TextBlock><h2>Rebound Projects</h2></TextBlock>
+    <TextBlock variant="titleLarge">Rebound Projects</TextBlock>
     <TextBlock>Discover all the projects by the Rebound Team on this page!</TextBlock>
 </section>
 <section class="project">
-    <TextBlock><h3>Ivirius Text Editor Plus</h3></TextBlock>
-    <TextBlock>A versatile, modern, Fluent text editor. Available for $1.09 off the MS Store.</TextBlock>
+    <TextBlock variant="title">Ivirius Text Editor Plus</TextBlock><br>
+    <TextBlock>A versatile, modern, Fluent text editor. Available for $1.09 off the MS Store.</TextBlock><br>
     <TextBlock><b>Developed by:</b> Ivirius, ErrorTek, TheDevil</TextBlock>
 </section>
 <style>
