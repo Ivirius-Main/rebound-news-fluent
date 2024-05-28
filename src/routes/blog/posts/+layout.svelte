@@ -11,7 +11,7 @@
 	$: ({ title, thumbnail, author, date, description, host, protocol } = data);
 </script>
 
-<Metadata title="ErrorTek's site • {title}" heroImage={thumbnail} description={description} imageHost={host} imageProtocol={protocol} />
+<Metadata title="Rebound News-  {title}" heroImage={thumbnail} description={description} imageHost={host} imageProtocol={protocol} />
 
 <section class="blog-post">
 	<article>

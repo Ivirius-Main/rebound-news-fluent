@@ -37,7 +37,7 @@
 </script>
 
 <svelte:head>
-	<meta content="ErrorTek's website" name="og:site_name" />
+	<meta content="Rebound News" name="og:site_name" />
 	<meta content="website" name="og:type" />
 	<meta content="Dongle (original author), ErrorTek" name="author" />
 	<meta content="#0078d4" name="theme-color" />

@@ -3,7 +3,7 @@
 
 	export let heroImage = "";
 
-	export let description = "ErrorTek's website";
+	export let description = "Rebound News";
 
 	export let imageHost = "";
 
