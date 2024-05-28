@@ -69,7 +69,7 @@
 				<IconButton
 					class="iconButtonPad"
 					title="YouTube"
-					href="https://youtube.com/@{youtube-ivr}"
+					href="https://youtube.com/@{youtubeivr}"
 					target="_blank"
 				>
 					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
@@ -79,7 +79,7 @@
 				<IconButton
 					class="iconButtonPad"
 					title="GitHub"
-					href="https://github.com/{github-ivr}"
+					href="https://github.com/{githubivr}"
 					target="_blank"
 				>
 					<svg

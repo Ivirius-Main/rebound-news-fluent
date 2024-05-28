@@ -1,8 +1,8 @@
 export const links = {
 	youtube: "errortechyt",
 	github: "jpbandroid",
-	youtube-ivr: "ivirius-official",
-	github-ivr: "Ivirius-Main"
+	youtubeivr: "ivirius-official",
+	githubivr: "Ivirius-Main"
 };
 
 export type NavbarItem = {
