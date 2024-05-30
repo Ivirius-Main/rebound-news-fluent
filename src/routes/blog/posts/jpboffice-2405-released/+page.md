@@ -1,7 +1,7 @@
 ---
 title: jpb Office (Rebound) 2405 now out!
 description: Version 2405 (16.0.14527.20226) has now been released for all three apps.
-thumbnail: /blog-resources/uteuwp-plus-24h2-released/thumbnail.png
+thumbnail: /blog-resources/jpboffice-2405-released/thumbnail.png
 date: 2024-05-30
 author: jpbandroid
 ---
