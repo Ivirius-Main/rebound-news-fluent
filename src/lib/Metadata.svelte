@@ -1,5 +1,5 @@
 <script lang="ts">
-	export let title = "ErrorTek's blog";
+	export let title = "Rebound News";
 
 	export let heroImage = "";
 
