@@ -28,7 +28,7 @@ Now let's begin exploring each of these features in detail.
 ### VelocityIDs
 Velocity IDs have been around ever since the December 2023 patches for UTE UWP (TowPad-based) were released, which was before UTE UWP 24H1 RTMed and before UTE UWP Plus even began!
 
-The idea of Velocity IDs themselves was inspired by the feature of the same name in Windows' Insider Previw builds, allowing certain hidden features and enhancements to be toggled.
+The idea of Velocity IDs themselves was inspired by the feature of the same name in Windows' Insider Preview builds, allowing certain hidden features and enhancements to be toggled.
 
 As of the RTM build of IVR Free 3.1 (3.1.0.267), there are no Velocity IDs in the menu, but they will be added with future patches.
 
@@ -47,4 +47,13 @@ It now features an actual NavigationView and many new pages to manage files and 
 <figure class="margin-bottom">
     <img src="/blog-resources/ivrte31-released/ivrte-home.png" alt="Ivirius Text Editor 3.1.0.267 showing the Home Menu.">
     <figcaption>Ivirius Text Editor 3.1.0.267 showing the Home Menu.</figcaption>
+</figure>
+
+### Share
+Ivirius Text Editor 3.1 introduces file sharing functionality, allowing you to share your documents to compatible apps.
+
+
+<figure class="margin-bottom">
+    <img src="/blog-resources/ivrte31-released/ivrte-share.png" alt="Ivirius Text Editor 3.1.0.267 showing the Share UI">
+    <figcaption>Ivirius Text Editor 3.1.0.267 showing the Share UI.</figcaption>
 </figure>
